@@ -7,4 +7,3 @@ SOME CONTENT!!
 
 Feature branch content.
 
-Main Head Content
