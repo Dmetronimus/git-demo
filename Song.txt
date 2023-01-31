@@ -6,3 +6,5 @@ Add new line, Git GUI
 SOME CONTENT!!
 
 Feature branch content.
+
+Main Head Content
